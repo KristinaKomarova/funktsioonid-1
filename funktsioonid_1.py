@@ -11,3 +11,4 @@ while True:
     elif v.upper()=="Y":
         rezult=is_year_leap(int(input("sisesta aasta:")))
         print(rezult)
+        r
