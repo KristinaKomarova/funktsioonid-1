@@ -37,3 +37,18 @@ def is_year_leap(aasta: int):
     else:
         vastus=False
     return vastus
+
+def square(a:float):
+    """P - ümbermõõd
+    S - pindala
+    d - diagonaal
+    a - ruudu külg
+    :param float a: ruudu külja pikkus
+    :param float P: ruudu ümbermõõd
+    :param float S: ruudu pindala
+    :param float d: ruudu diagonaal
+    :rtype float:
+    """
+
+    a=int(input("ruudu küle pikkus")
+          if P==4*a:
